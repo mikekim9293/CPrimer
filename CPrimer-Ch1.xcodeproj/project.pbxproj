@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3AB25D8C1CBCC5AB00479D0A /* Ex1_2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AB25D8B1CBCC5AB00479D0A /* Ex1_2.cpp */; };
+		3AB25D961CBCD6EA00479D0A /* Ex1_6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AB25D931CBCD63700479D0A /* Ex1_6.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +26,10 @@
 		3AB25D811CBCC51500479D0A /* CPrimer-Ch1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CPrimer-Ch1"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AB25D841CBCC51500479D0A /* Ex1_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_1.cpp; sourceTree = "<group>"; };
 		3AB25D8B1CBCC5AB00479D0A /* Ex1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_2.cpp; sourceTree = "<group>"; };
+		3AB25D8D1CBCD46000479D0A /* Ex1_3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_3.cpp; sourceTree = "<group>"; };
+		3AB25D8F1CBCD4E500479D0A /* Ex1_4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_4.cpp; sourceTree = "<group>"; };
+		3AB25D911CBCD5D300479D0A /* Ex1_5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_5.cpp; sourceTree = "<group>"; };
+		3AB25D931CBCD63700479D0A /* Ex1_6.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_6.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,10 @@
 			children = (
 				3AB25D841CBCC51500479D0A /* Ex1_1.cpp */,
 				3AB25D8B1CBCC5AB00479D0A /* Ex1_2.cpp */,
+				3AB25D8D1CBCD46000479D0A /* Ex1_3.cpp */,
+				3AB25D8F1CBCD4E500479D0A /* Ex1_4.cpp */,
+				3AB25D911CBCD5D300479D0A /* Ex1_5.cpp */,
+				3AB25D931CBCD63700479D0A /* Ex1_6.cpp */,
 			);
 			path = "CPrimer-Ch1";
 			sourceTree = "<group>";
@@ -120,7 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AB25D8C1CBCC5AB00479D0A /* Ex1_2.cpp in Sources */,
+				3AB25D961CBCD6EA00479D0A /* Ex1_6.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
