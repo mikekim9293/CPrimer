@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3AD289FA1CBE071F00BB2E23 /* Ex1_11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AD289F81CBE070800BB2E23 /* Ex1_11.cpp */; };
+		3AD28A001CBE0F7F00BB2E23 /* Ex1_15.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AD289FF1CBE0F7F00BB2E23 /* Ex1_15.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +35,9 @@
 		3AD289F41CBE057400BB2E23 /* Ex1_9.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_9.cpp; sourceTree = "<group>"; };
 		3AD289F61CBE062300BB2E23 /* Ex1_10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_10.cpp; sourceTree = "<group>"; };
 		3AD289F81CBE070800BB2E23 /* Ex1_11.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_11.cpp; sourceTree = "<group>"; };
+		3AD289FB1CBE0BF100BB2E23 /* Ex1_12.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_12.cpp; sourceTree = "<group>"; };
+		3AD289FD1CBE0D6100BB2E23 /* Ex1_13_14.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_13_14.cpp; sourceTree = "<group>"; };
+		3AD289FF1CBE0F7F00BB2E23 /* Ex1_15.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_15.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +81,9 @@
 				3AD289F41CBE057400BB2E23 /* Ex1_9.cpp */,
 				3AD289F61CBE062300BB2E23 /* Ex1_10.cpp */,
 				3AD289F81CBE070800BB2E23 /* Ex1_11.cpp */,
+				3AD289FB1CBE0BF100BB2E23 /* Ex1_12.cpp */,
+				3AD289FD1CBE0D6100BB2E23 /* Ex1_13_14.cpp */,
+				3AD289FF1CBE0F7F00BB2E23 /* Ex1_15.cpp */,
 			);
 			path = "CPrimer-Ch1";
 			sourceTree = "<group>";
@@ -138,7 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AD289FA1CBE071F00BB2E23 /* Ex1_11.cpp in Sources */,
+				3AD28A001CBE0F7F00BB2E23 /* Ex1_15.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
