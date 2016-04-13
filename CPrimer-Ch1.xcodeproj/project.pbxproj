@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3AD289F31CBE001900BB2E23 /* Ex1_8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AD289F21CBE001900BB2E23 /* Ex1_8.cpp */; };
+		3AD289FA1CBE071F00BB2E23 /* Ex1_11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AD289F81CBE070800BB2E23 /* Ex1_11.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +32,9 @@
 		3AB25D931CBCD63700479D0A /* Ex1_6.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_6.cpp; sourceTree = "<group>"; };
 		3AD289F01CBDFF5000BB2E23 /* Ex1_7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_7.cpp; sourceTree = "<group>"; };
 		3AD289F21CBE001900BB2E23 /* Ex1_8.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_8.cpp; sourceTree = "<group>"; };
+		3AD289F41CBE057400BB2E23 /* Ex1_9.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_9.cpp; sourceTree = "<group>"; };
+		3AD289F61CBE062300BB2E23 /* Ex1_10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_10.cpp; sourceTree = "<group>"; };
+		3AD289F81CBE070800BB2E23 /* Ex1_11.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_11.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,9 @@
 				3AB25D931CBCD63700479D0A /* Ex1_6.cpp */,
 				3AD289F01CBDFF5000BB2E23 /* Ex1_7.cpp */,
 				3AD289F21CBE001900BB2E23 /* Ex1_8.cpp */,
+				3AD289F41CBE057400BB2E23 /* Ex1_9.cpp */,
+				3AD289F61CBE062300BB2E23 /* Ex1_10.cpp */,
+				3AD289F81CBE070800BB2E23 /* Ex1_11.cpp */,
 			);
 			path = "CPrimer-Ch1";
 			sourceTree = "<group>";
@@ -132,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AD289F31CBE001900BB2E23 /* Ex1_8.cpp in Sources */,
+				3AD289FA1CBE071F00BB2E23 /* Ex1_11.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
