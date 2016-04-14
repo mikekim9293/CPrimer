@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3AC46AD61CBF5AB50056A055 /* Ex1_19.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AC46AD51CBF5AB50056A055 /* Ex1_19.cpp */; };
+		3AC46AE51CBF76260056A055 /* Ex1_22.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AC46AE41CBF76260056A055 /* Ex1_22.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +32,10 @@
 		3AB25D911CBCD5D300479D0A /* Ex1_5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_5.cpp; sourceTree = "<group>"; };
 		3AB25D931CBCD63700479D0A /* Ex1_6.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_6.cpp; sourceTree = "<group>"; };
 		3AC46AD51CBF5AB50056A055 /* Ex1_19.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_19.cpp; sourceTree = "<group>"; };
+		3AC46ADE1CBF64CB0056A055 /* Ex1_20.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_20.cpp; sourceTree = "<group>"; };
+		3AC46AE01CBF65010056A055 /* Sales_item.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sales_item.h; sourceTree = "<group>"; };
+		3AC46AE21CBF757E0056A055 /* Ex1_21.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_21.cpp; sourceTree = "<group>"; };
+		3AC46AE41CBF76260056A055 /* Ex1_22.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_22.cpp; sourceTree = "<group>"; };
 		3AD289F01CBDFF5000BB2E23 /* Ex1_7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_7.cpp; sourceTree = "<group>"; };
 		3AD289F21CBE001900BB2E23 /* Ex1_8.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_8.cpp; sourceTree = "<group>"; };
 		3AD289F41CBE057400BB2E23 /* Ex1_9.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_9.cpp; sourceTree = "<group>"; };
@@ -74,6 +78,10 @@
 				3AD28A011CBE13D700BB2E23 /* Ex1_16.cpp */,
 				3A2518061CBE1D9B00076DD3 /* Ex1_17_18.cpp */,
 				3AC46AD51CBF5AB50056A055 /* Ex1_19.cpp */,
+				3AC46ADE1CBF64CB0056A055 /* Ex1_20.cpp */,
+				3AC46AE21CBF757E0056A055 /* Ex1_21.cpp */,
+				3AC46AE41CBF76260056A055 /* Ex1_22.cpp */,
+				3AC46AE01CBF65010056A055 /* Sales_item.h */,
 			);
 			name = Ch1;
 			sourceTree = "<group>";
@@ -158,7 +166,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AC46AD61CBF5AB50056A055 /* Ex1_19.cpp in Sources */,
+				3AC46AE51CBF76260056A055 /* Ex1_22.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -202,10 +210,12 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = /Users/seongkim/Personal_Dev/Projects/CPrimer/CPrimer;
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
+				USER_HEADER_SEARCH_PATHS = "";
 			};
 			name = Debug;
 		};
@@ -240,23 +250,29 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = /Users/seongkim/Personal_Dev/Projects/CPrimer/CPrimer;
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
+				USER_HEADER_SEARCH_PATHS = "";
 			};
 			name = Release;
 		};
 		3AB25D891CBCC51500479D0A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
 				PRODUCT_NAME = CPrimer;
+				USER_HEADER_SEARCH_PATHS = "";
 			};
 			name = Debug;
 		};
 		3AB25D8A1CBCC51500479D0A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
 				PRODUCT_NAME = CPrimer;
+				USER_HEADER_SEARCH_PATHS = "";
 			};
 			name = Release;
 		};
