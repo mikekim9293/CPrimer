@@ -1,6 +1,6 @@
 //
 //  Ex1_1.cpp
-//  CPrimer-Ch1
+//  CPrimer
 //
 //  Created by Seong Kim on 4/11/16.
 //  Copyright © 2016 Seong Kim. All rights reserved.

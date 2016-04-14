@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3A2518071CBE1D9B00076DD3 /* Ex1_17_18.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A2518061CBE1D9B00076DD3 /* Ex1_17_18.cpp */; };
+		3AC46AD61CBF5AB50056A055 /* Ex1_19.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AC46AD51CBF5AB50056A055 /* Ex1_19.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +31,7 @@
 		3AB25D8F1CBCD4E500479D0A /* Ex1_4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_4.cpp; sourceTree = "<group>"; };
 		3AB25D911CBCD5D300479D0A /* Ex1_5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_5.cpp; sourceTree = "<group>"; };
 		3AB25D931CBCD63700479D0A /* Ex1_6.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_6.cpp; sourceTree = "<group>"; };
+		3AC46AD51CBF5AB50056A055 /* Ex1_19.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_19.cpp; sourceTree = "<group>"; };
 		3AD289F01CBDFF5000BB2E23 /* Ex1_7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_7.cpp; sourceTree = "<group>"; };
 		3AD289F21CBE001900BB2E23 /* Ex1_8.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_8.cpp; sourceTree = "<group>"; };
 		3AD289F41CBE057400BB2E23 /* Ex1_9.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_9.cpp; sourceTree = "<group>"; };
@@ -72,6 +73,7 @@
 				3AD289FF1CBE0F7F00BB2E23 /* Ex1_15.cpp */,
 				3AD28A011CBE13D700BB2E23 /* Ex1_16.cpp */,
 				3A2518061CBE1D9B00076DD3 /* Ex1_17_18.cpp */,
+				3AC46AD51CBF5AB50056A055 /* Ex1_19.cpp */,
 			);
 			name = Ch1;
 			sourceTree = "<group>";
@@ -156,7 +158,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A2518071CBE1D9B00076DD3 /* Ex1_17_18.cpp in Sources */,
+				3AC46AD61CBF5AB50056A055 /* Ex1_19.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
