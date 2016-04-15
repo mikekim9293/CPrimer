@@ -6,7 +6,7 @@
 //  Copyright © 2016 Seong Kim. All rights reserved.
 //
 
-// Exercise 1.21
+// Exercise 1.22
 #include <iostream>
 #include "Sales_item.h"
 
