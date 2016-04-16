@@ -25,7 +25,7 @@ int main() {
  / evenly divided between positive and negative values.
 */
 
-// Excercise 2.2
+// Exercise 2.2
 /* To calculate a mortgage payment, the following values should be used for
  / rate, principal, and payment.
  / rate - double
