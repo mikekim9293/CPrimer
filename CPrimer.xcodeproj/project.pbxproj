@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3ADAB9181CC1FCBE00FBE8B5 /* Ex2_9_10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3ADAB9171CC1FCBE00FBE8B5 /* Ex2_9_10.cpp */; };
+		3AE191ED1CC3591F005F6481 /* Ex2_9_10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3ADAB9171CC1FCBE00FBE8B5 /* Ex2_9_10.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -91,7 +91,7 @@
 				3A8AA99D1CC09FFE006CC3B8 /* Ex1_25.cpp */,
 				3AC46AE01CBF65010056A055 /* Sales_item.h */,
 			);
-			name = Ch1;
+			path = Ch1;
 			sourceTree = "<group>";
 		};
 		3A8AA9A11CC0A75A006CC3B8 /* Ch2 */ = {
@@ -102,7 +102,7 @@
 				3ADAB9151CC1F36C00FBE8B5 /* Ex2_5_6_7_8.cpp */,
 				3ADAB9171CC1FCBE00FBE8B5 /* Ex2_9_10.cpp */,
 			);
-			name = Ch2;
+			path = Ch2;
 			sourceTree = "<group>";
 		};
 		3AB25D781CBCC51500479D0A = {
@@ -186,7 +186,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3ADAB9181CC1FCBE00FBE8B5 /* Ex2_9_10.cpp in Sources */,
+				3AE191ED1CC3591F005F6481 /* Ex2_9_10.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
