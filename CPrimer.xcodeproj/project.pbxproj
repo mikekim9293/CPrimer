@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3AE191ED1CC3591F005F6481 /* Ex2_9_10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3ADAB9171CC1FCBE00FBE8B5 /* Ex2_9_10.cpp */; };
+		3A9600E71CC35A47000EBF57 /* GitSourceControlTest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A9600E61CC35A47000EBF57 /* GitSourceControlTest.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +27,7 @@
 		3A8AA99B1CC09B3B006CC3B8 /* Ex1_23_24.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_23_24.cpp; sourceTree = "<group>"; };
 		3A8AA99D1CC09FFE006CC3B8 /* Ex1_25.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_25.cpp; sourceTree = "<group>"; };
 		3A8AA9A21CC0B07F006CC3B8 /* Ex2_1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_1_2.cpp; sourceTree = "<group>"; };
+		3A9600E61CC35A47000EBF57 /* GitSourceControlTest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GitSourceControlTest.cpp; sourceTree = "<group>"; };
 		3AB25D811CBCC51500479D0A /* CPrimer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPrimer; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AB25D841CBCC51500479D0A /* Ex1_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_1.cpp; sourceTree = "<group>"; };
 		3AB25D8B1CBCC5AB00479D0A /* Ex1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_2.cpp; sourceTree = "<group>"; };
@@ -101,6 +102,7 @@
 				3ADAB9131CC1E9BC00FBE8B5 /* Ex2_3_4.cpp */,
 				3ADAB9151CC1F36C00FBE8B5 /* Ex2_5_6_7_8.cpp */,
 				3ADAB9171CC1FCBE00FBE8B5 /* Ex2_9_10.cpp */,
+				3A9600E61CC35A47000EBF57 /* GitSourceControlTest.cpp */,
 			);
 			path = Ch2;
 			sourceTree = "<group>";
@@ -186,7 +188,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AE191ED1CC3591F005F6481 /* Ex2_9_10.cpp in Sources */,
+				3A9600E71CC35A47000EBF57 /* GitSourceControlTest.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
