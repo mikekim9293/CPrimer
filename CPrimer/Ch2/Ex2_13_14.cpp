@@ -18,7 +18,7 @@ int main() {
     return 0;
     // Output:
     // 100 45
-    //Program ended with exit code: 0
+    // Program ended with exit code: 0
 }
 
 // Exercise 2.13
@@ -26,6 +26,7 @@ int main() {
  */
 
 // Exercise 2.14
-/* Output will be:
+/* Legal.
+ * Output will be:
  * 100 45
  */
