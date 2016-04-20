@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3AA844441CC73701000A134F /* Ex2_32.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AA844431CC73701000A134F /* Ex2_32.cpp */; };
 		3ACF0FDE1CC60D0E00A14DF1 /* Ex2_27_28_29.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3ACF0FDD1CC60D0E00A14DF1 /* Ex2_27_28_29.cpp */; };
 		3ACF0FE01CC6132C00A14DF1 /* Ex2_30_31.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3ACF0FDF1CC6132C00A14DF1 /* Ex2_30_31.cpp */; };
 /* End PBXBuildFile section */
@@ -28,6 +29,7 @@
 		3A8AA99B1CC09B3B006CC3B8 /* Ex1_23_24.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_23_24.cpp; sourceTree = "<group>"; };
 		3A8AA99D1CC09FFE006CC3B8 /* Ex1_25.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_25.cpp; sourceTree = "<group>"; };
 		3A8AA9A21CC0B07F006CC3B8 /* Ex2_1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_1_2.cpp; sourceTree = "<group>"; };
+		3AA844431CC73701000A134F /* Ex2_32.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_32.cpp; sourceTree = "<group>"; };
 		3AB25D811CBCC51500479D0A /* CPrimer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPrimer; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AB25D841CBCC51500479D0A /* Ex1_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_1.cpp; sourceTree = "<group>"; };
 		3AB25D8B1CBCC5AB00479D0A /* Ex1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_2.cpp; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				3ACF0FDB1CC5F75700A14DF1 /* Ex2_26.cpp */,
 				3ACF0FDD1CC60D0E00A14DF1 /* Ex2_27_28_29.cpp */,
 				3ACF0FDF1CC6132C00A14DF1 /* Ex2_30_31.cpp */,
+				3AA844431CC73701000A134F /* Ex2_32.cpp */,
 			);
 			path = Ch2;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3ACF0FE01CC6132C00A14DF1 /* Ex2_30_31.cpp in Sources */,
+				3AA844441CC73701000A134F /* Ex2_32.cpp in Sources */,
 				3ACF0FDE1CC60D0E00A14DF1 /* Ex2_27_28_29.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
