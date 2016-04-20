@@ -10,7 +10,6 @@
 #include <iostream>
 
 int main() {
-    int null = 0, *p = null;
     return 0;
     // Output:
     // Program ended with exit code: 0
