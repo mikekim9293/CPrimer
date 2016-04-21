@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3A1079171CC8920D0030AD94 /* Ex2_40.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A1079151CC890750030AD94 /* Ex2_40.cpp */; };
+		3A04258A1CC930CA006D3B93 /* test_commit1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A0425891CC930CA006D3B93 /* test_commit1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		3A0425891CC930CA006D3B93 /* test_commit1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = test_commit1.cpp; sourceTree = "<group>"; };
 		3A1079121CC88F190030AD94 /* Ex2_39.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_39.cpp; sourceTree = "<group>"; };
 		3A1079151CC890750030AD94 /* Ex2_40.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_40.cpp; sourceTree = "<group>"; };
 		3A2518061CBE1D9B00076DD3 /* Ex1_17_18.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_17_18.cpp; sourceTree = "<group>"; };
@@ -135,6 +136,7 @@
 				3AA844491CC75698000A134F /* Ex2_36_37_38.cpp */,
 				3A1079121CC88F190030AD94 /* Ex2_39.cpp */,
 				3A1079151CC890750030AD94 /* Ex2_40.cpp */,
+				3A0425891CC930CA006D3B93 /* test_commit1.cpp */,
 			);
 			path = Ch2;
 			sourceTree = "<group>";
@@ -220,7 +222,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A1079171CC8920D0030AD94 /* Ex2_40.cpp in Sources */,
+				3A04258A1CC930CA006D3B93 /* test_commit1.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
