@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3A04258A1CC930CA006D3B93 /* test_commit1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A0425891CC930CA006D3B93 /* test_commit1.cpp */; };
+		3A7F2D781CC9AFC000C8EF70 /* test_commit2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A7F2D771CC9AFC000C8EF70 /* test_commit2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		3A1079121CC88F190030AD94 /* Ex2_39.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_39.cpp; sourceTree = "<group>"; };
 		3A1079151CC890750030AD94 /* Ex2_40.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_40.cpp; sourceTree = "<group>"; };
 		3A2518061CBE1D9B00076DD3 /* Ex1_17_18.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_17_18.cpp; sourceTree = "<group>"; };
+		3A7F2D771CC9AFC000C8EF70 /* test_commit2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = test_commit2.cpp; sourceTree = "<group>"; };
 		3A8AA99B1CC09B3B006CC3B8 /* Ex1_23_24.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_23_24.cpp; sourceTree = "<group>"; };
 		3A8AA99D1CC09FFE006CC3B8 /* Ex1_25.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_25.cpp; sourceTree = "<group>"; };
 		3A8AA9A21CC0B07F006CC3B8 /* Ex2_1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_1_2.cpp; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 				3A1079121CC88F190030AD94 /* Ex2_39.cpp */,
 				3A1079151CC890750030AD94 /* Ex2_40.cpp */,
 				3A0425891CC930CA006D3B93 /* test_commit1.cpp */,
+				3A7F2D771CC9AFC000C8EF70 /* test_commit2.cpp */,
 			);
 			path = Ch2;
 			sourceTree = "<group>";
@@ -223,6 +226,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A04258A1CC930CA006D3B93 /* test_commit1.cpp in Sources */,
+				3A7F2D781CC9AFC000C8EF70 /* test_commit2.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
