@@ -13,7 +13,7 @@ struct Sales_data {
     std::string bookNo;
     std::string bookName;
     std::string authorName;
-    std::string publishedYear;
+    std::string publishedDate;
     std::string publisherName;
     unsigned units_sold = 0;
     double revenue = 0.0;
