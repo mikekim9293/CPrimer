@@ -9,12 +9,10 @@
 // Exercise 2.39
 #include <iostream>
 
-struct Foo { /* empty */ };
+struct Foo { /* empty */ }
 
 int main() {
     return 0;
-    // Output:
-    // Program ended with exit code: 0
 }
 
 // Error:
