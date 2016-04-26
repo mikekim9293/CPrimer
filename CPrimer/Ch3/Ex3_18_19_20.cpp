@@ -16,23 +16,43 @@ using std::string; using std::vector;
 // Exercise 3.20
 int main() {
     // First way
+    /*
     vector<int> ivec, result;
     int temp = 0;
     while (cin >> temp)
         ivec.push_back(temp);
     for (vector<int>::size_type i = 1; i != ivec.size(); ++i) {
-        result[i-1] = ivec[i-1] + ivec[i];
+        result.push_back(ivec[i-1] + ivec[i]);
     }
     for (auto i : result)
         cout << i << " ";
     cout << endl;
+    cout << result.size() << endl;
+     */
     // Output:
+    // 1 2 3 4 5 6 7 8 9 10
+    // 3 5 7 9 11 13 15 17 19
+    // Program ended with exit code: 0
     
-    
-    
-    
+    // Second way
+    vector<int> ivec, result;
+    int temp;
+    while (cin >> temp)
+        ivec.push_back(temp);
+    vector<int>::size_type back = ivec.size();
+    for (vector<int>::size_type i = 0; (i != back); ++i) {
+        --back;
+        result.push_back(ivec[i] + ivec[back]);
+        if (back-i == 2)
+            result.push_back(ivec[--back]);
+    }
+    for (auto i : result)
+        cout << i << " ";
+    cout << endl;
     return 0;
     // Output:
+    // 1 2 3 4 5 6 7
+    // 8 8 8 4
     // Program ended with exit code: 0
 }
 // Exercise 3.18
