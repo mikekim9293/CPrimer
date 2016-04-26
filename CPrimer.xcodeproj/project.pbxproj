@@ -183,8 +183,7 @@
 				3AB12A171CCF436E000E499B /* Ex3_17.cpp */,
 				3AB12A191CCF46F2000E499B /* Ex3_18_19_20.cpp */,
 			);
-			name = Ch3;
-			path = Ch2;
+			path = Ch3;
 			sourceTree = "<group>";
 		};
 		3AB25D781CBCC51500479D0A = {
