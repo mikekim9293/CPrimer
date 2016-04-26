@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3AA26F571CCDD7BC00E48632 /* Ex3_9_10_11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AA26F541CCDD3BD00E48632 /* Ex3_9_10_11.cpp */; };
-		3AB12A101CCF30FC000E499B /* Ex3_12_13.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AB12A0F1CCF30FC000E499B /* Ex3_12_13.cpp */; };
+		3AB12A141CCF3861000E499B /* Ex3_15.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AB12A131CCF3861000E499B /* Ex3_15.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +48,8 @@
 		3AA844471CC74BB9000A134F /* Ex2_35.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_35.cpp; sourceTree = "<group>"; };
 		3AA844491CC75698000A134F /* Ex2_36_37_38.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_36_37_38.cpp; sourceTree = "<group>"; };
 		3AB12A0F1CCF30FC000E499B /* Ex3_12_13.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex3_12_13.cpp; sourceTree = "<group>"; };
+		3AB12A111CCF37AF000E499B /* Ex3_14.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex3_14.cpp; sourceTree = "<group>"; };
+		3AB12A131CCF3861000E499B /* Ex3_15.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex3_15.cpp; sourceTree = "<group>"; };
 		3AB25D811CBCC51500479D0A /* CPrimer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPrimer; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AB25D841CBCC51500479D0A /* Ex1_1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_1.cpp; sourceTree = "<group>"; };
 		3AB25D8B1CBCC5AB00479D0A /* Ex1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_2.cpp; sourceTree = "<group>"; };
@@ -173,6 +174,8 @@
 				3AA26F521CCDD08B00E48632 /* Ex3_6_7_8.cpp */,
 				3AA26F541CCDD3BD00E48632 /* Ex3_9_10_11.cpp */,
 				3AB12A0F1CCF30FC000E499B /* Ex3_12_13.cpp */,
+				3AB12A111CCF37AF000E499B /* Ex3_14.cpp */,
+				3AB12A131CCF3861000E499B /* Ex3_15.cpp */,
 			);
 			name = Ch3;
 			path = Ch2;
@@ -260,8 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AA26F571CCDD7BC00E48632 /* Ex3_9_10_11.cpp in Sources */,
-				3AB12A101CCF30FC000E499B /* Ex3_12_13.cpp in Sources */,
+				3AB12A141CCF3861000E499B /* Ex3_15.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
