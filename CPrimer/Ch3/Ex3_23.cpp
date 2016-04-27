@@ -21,7 +21,7 @@ int main() {
         vecint[i] = i + 1;
     // Double value
     for (auto i = vecint.begin(); i != vecint.end(); ++i)
-        *i = *i * 2;
+        *i *= 2;
     // Print new values
     for (auto i : vecint)
         cout << i << " ";
@@ -29,6 +29,6 @@ int main() {
     
     return 0;
     // Output:
-    // 2 4 6 8 10 12 14 16 18 20 
+    // 2 4 6 8 10 12 14 16 18 20
     // Program ended with exit code: 0
 }
