@@ -34,7 +34,7 @@ int main() {
 // Exercise 3.28
 /* sa - empty strings
  * ia - 0
- * sa2 - undefined because inside function body
+ * sa2 - empty strings
  * ia2 - undefined because inside function body
  */
 
