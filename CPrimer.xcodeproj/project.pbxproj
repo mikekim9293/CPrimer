@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3AD9090C1CD46DB5002F6212 /* Ex3_40.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AD9090B1CD46DB5002F6212 /* Ex3_40.cpp */; };
+		3AD915431CD5A33500964BF7 /* Ex3_41_42.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AD915421CD5A33500964BF7 /* Ex3_41_42.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -95,6 +95,7 @@
 		3AD28A011CBE13D700BB2E23 /* Ex1_16.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_16.cpp; sourceTree = "<group>"; };
 		3AD909091CD46B42002F6212 /* Ex3_37_38_39.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex3_37_38_39.cpp; sourceTree = "<group>"; };
 		3AD9090B1CD46DB5002F6212 /* Ex3_40.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex3_40.cpp; sourceTree = "<group>"; };
+		3AD915421CD5A33500964BF7 /* Ex3_41_42.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex3_41_42.cpp; sourceTree = "<group>"; };
 		3ADAB9131CC1E9BC00FBE8B5 /* Ex2_3_4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_3_4.cpp; sourceTree = "<group>"; };
 		3ADAB9151CC1F36C00FBE8B5 /* Ex2_5_6_7_8.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_5_6_7_8.cpp; sourceTree = "<group>"; };
 		3ADAB9171CC1FCBE00FBE8B5 /* Ex2_9_10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_9_10.cpp; sourceTree = "<group>"; };
@@ -206,6 +207,7 @@
 				3AE6B1201CD32FB7006E2D72 /* Ex3_36.cpp */,
 				3AD909091CD46B42002F6212 /* Ex3_37_38_39.cpp */,
 				3AD9090B1CD46DB5002F6212 /* Ex3_40.cpp */,
+				3AD915421CD5A33500964BF7 /* Ex3_41_42.cpp */,
 			);
 			path = Ch3;
 			sourceTree = "<group>";
@@ -292,7 +294,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AD9090C1CD46DB5002F6212 /* Ex3_40.cpp in Sources */,
+				3AD915431CD5A33500964BF7 /* Ex3_41_42.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
