@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3A695CF11CD6EEA400695DCE /* Ex3_45.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A695CF01CD6EEA400695DCE /* Ex3_45.cpp */; };
 		3A695CF41CD71A4D00695DCE /* Ex4_1_2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A695CF31CD71A4D00695DCE /* Ex4_1_2.cpp */; };
+		3A695CF61CD71EB700695DCE /* Ex4_3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A695CF51CD71EB700695DCE /* Ex4_3.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		3A695CEE1CD6EDEB00695DCE /* Ex3_44.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex3_44.cpp; sourceTree = "<group>"; };
 		3A695CF01CD6EEA400695DCE /* Ex3_45.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex3_45.cpp; sourceTree = "<group>"; };
 		3A695CF31CD71A4D00695DCE /* Ex4_1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex4_1_2.cpp; sourceTree = "<group>"; };
+		3A695CF51CD71EB700695DCE /* Ex4_3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex4_3.cpp; sourceTree = "<group>"; };
 		3A8AA99B1CC09B3B006CC3B8 /* Ex1_23_24.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_23_24.cpp; sourceTree = "<group>"; };
 		3A8AA99D1CC09FFE006CC3B8 /* Ex1_25.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_25.cpp; sourceTree = "<group>"; };
 		3A8AA9A21CC0B07F006CC3B8 /* Ex2_1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_1_2.cpp; sourceTree = "<group>"; };
@@ -153,6 +155,7 @@
 			isa = PBXGroup;
 			children = (
 				3A695CF31CD71A4D00695DCE /* Ex4_1_2.cpp */,
+				3A695CF51CD71EB700695DCE /* Ex4_3.cpp */,
 			);
 			path = Ch4;
 			sourceTree = "<group>";
@@ -313,6 +316,7 @@
 			files = (
 				3A695CF41CD71A4D00695DCE /* Ex4_1_2.cpp in Sources */,
 				3A695CF11CD6EEA400695DCE /* Ex3_45.cpp in Sources */,
+				3A695CF61CD71EB700695DCE /* Ex4_3.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
