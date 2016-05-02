@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3A695CF11CD6EEA400695DCE /* Ex3_45.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A695CF01CD6EEA400695DCE /* Ex3_45.cpp */; };
+		3A695CF41CD71A4D00695DCE /* Ex4_1_2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A695CF31CD71A4D00695DCE /* Ex4_1_2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,7 @@
 		3A695CEC1CD6EAA600695DCE /* Ex3_43.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex3_43.cpp; sourceTree = "<group>"; };
 		3A695CEE1CD6EDEB00695DCE /* Ex3_44.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex3_44.cpp; sourceTree = "<group>"; };
 		3A695CF01CD6EEA400695DCE /* Ex3_45.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex3_45.cpp; sourceTree = "<group>"; };
+		3A695CF31CD71A4D00695DCE /* Ex4_1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex4_1_2.cpp; sourceTree = "<group>"; };
 		3A8AA99B1CC09B3B006CC3B8 /* Ex1_23_24.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_23_24.cpp; sourceTree = "<group>"; };
 		3A8AA99D1CC09FFE006CC3B8 /* Ex1_25.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_25.cpp; sourceTree = "<group>"; };
 		3A8AA9A21CC0B07F006CC3B8 /* Ex2_1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_1_2.cpp; sourceTree = "<group>"; };
@@ -147,6 +149,14 @@
 			path = Ch1;
 			sourceTree = "<group>";
 		};
+		3A695CF21CD6F07600695DCE /* Ch4 */ = {
+			isa = PBXGroup;
+			children = (
+				3A695CF31CD71A4D00695DCE /* Ex4_1_2.cpp */,
+			);
+			path = Ch4;
+			sourceTree = "<group>";
+		};
 		3A8AA9A11CC0A75A006CC3B8 /* Ch2 */ = {
 			isa = PBXGroup;
 			children = (
@@ -240,6 +250,7 @@
 				3A2652E81CBEACAA004FC6EE /* Ch1 */,
 				3A8AA9A11CC0A75A006CC3B8 /* Ch2 */,
 				3AA26F461CCD809C00E48632 /* Ch3 */,
+				3A695CF21CD6F07600695DCE /* Ch4 */,
 			);
 			path = CPrimer;
 			sourceTree = "<group>";
@@ -300,6 +311,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A695CF41CD71A4D00695DCE /* Ex4_1_2.cpp in Sources */,
 				3A695CF11CD6EEA400695DCE /* Ex3_45.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
