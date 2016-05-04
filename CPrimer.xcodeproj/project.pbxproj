@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3A85D5961CD9C29C00B445EB /* Ex4_17_18_19.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A85D5951CD9C29C00B445EB /* Ex4_17_18_19.cpp */; };
+		3A85D5981CD9C76900B445EB /* Ex4_20.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A85D5971CD9C76900B445EB /* Ex4_20.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -44,6 +44,7 @@
 		3A85D5911CD9B90D00B445EB /* Ex4_13_14.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex4_13_14.cpp; sourceTree = "<group>"; };
 		3A85D5931CD9B9F500B445EB /* Ex4_15_16.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex4_15_16.cpp; sourceTree = "<group>"; };
 		3A85D5951CD9C29C00B445EB /* Ex4_17_18_19.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex4_17_18_19.cpp; sourceTree = "<group>"; };
+		3A85D5971CD9C76900B445EB /* Ex4_20.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex4_20.cpp; sourceTree = "<group>"; };
 		3A8AA99B1CC09B3B006CC3B8 /* Ex1_23_24.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_23_24.cpp; sourceTree = "<group>"; };
 		3A8AA99D1CC09FFE006CC3B8 /* Ex1_25.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_25.cpp; sourceTree = "<group>"; };
 		3A8AA9A21CC0B07F006CC3B8 /* Ex2_1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_1_2.cpp; sourceTree = "<group>"; };
@@ -168,6 +169,7 @@
 				3A85D5911CD9B90D00B445EB /* Ex4_13_14.cpp */,
 				3A85D5931CD9B9F500B445EB /* Ex4_15_16.cpp */,
 				3A85D5951CD9C29C00B445EB /* Ex4_17_18_19.cpp */,
+				3A85D5971CD9C76900B445EB /* Ex4_20.cpp */,
 			);
 			path = Ch4;
 			sourceTree = "<group>";
@@ -326,7 +328,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A85D5961CD9C29C00B445EB /* Ex4_17_18_19.cpp in Sources */,
+				3A85D5981CD9C76900B445EB /* Ex4_20.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
