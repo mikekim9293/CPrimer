@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3AEBFCCA1CD873F80039D05D /* Ex4_11_12.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3AEBFCC91CD873F80039D05D /* Ex4_11_12.cpp */; };
+		3A85D5941CD9B9F500B445EB /* Ex4_15_16.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3A85D5931CD9B9F500B445EB /* Ex4_15_16.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +41,8 @@
 		3A695CF51CD71EB700695DCE /* Ex4_3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex4_3.cpp; sourceTree = "<group>"; };
 		3A695CF71CD72AB800695DCE /* Ex4_4_5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex4_4_5.cpp; sourceTree = "<group>"; };
 		3A695CF91CD72C2600695DCE /* Ex4_6_7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex4_6_7.cpp; sourceTree = "<group>"; };
+		3A85D5911CD9B90D00B445EB /* Ex4_13_14.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex4_13_14.cpp; sourceTree = "<group>"; };
+		3A85D5931CD9B9F500B445EB /* Ex4_15_16.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex4_15_16.cpp; sourceTree = "<group>"; };
 		3A8AA99B1CC09B3B006CC3B8 /* Ex1_23_24.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_23_24.cpp; sourceTree = "<group>"; };
 		3A8AA99D1CC09FFE006CC3B8 /* Ex1_25.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex1_25.cpp; sourceTree = "<group>"; };
 		3A8AA9A21CC0B07F006CC3B8 /* Ex2_1_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Ex2_1_2.cpp; sourceTree = "<group>"; };
@@ -162,6 +164,8 @@
 				3A695CF91CD72C2600695DCE /* Ex4_6_7.cpp */,
 				3AEBFCC71CD871D10039D05D /* Ex4_8_9_10.cpp */,
 				3AEBFCC91CD873F80039D05D /* Ex4_11_12.cpp */,
+				3A85D5911CD9B90D00B445EB /* Ex4_13_14.cpp */,
+				3A85D5931CD9B9F500B445EB /* Ex4_15_16.cpp */,
 			);
 			path = Ch4;
 			sourceTree = "<group>";
@@ -320,7 +324,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AEBFCCA1CD873F80039D05D /* Ex4_11_12.cpp in Sources */,
+				3A85D5941CD9B9F500B445EB /* Ex4_15_16.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
