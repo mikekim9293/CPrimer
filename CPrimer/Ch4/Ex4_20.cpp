@@ -6,7 +6,7 @@
 //  Copyright © 2016 Seong Kim. All rights reserved.
 //
 
-// Exercise 4.3 (below)
+// Exercise 4.20 (below)
 #include <iostream>
 #include <string>
 #include <vector>
