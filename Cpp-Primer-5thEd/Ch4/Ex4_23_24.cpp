@@ -18,6 +18,7 @@ using std::begin; using std::end;
 
 int main() {
     return 0;
+    
     // Output:
     // Program ended with exit code: 0
 }
