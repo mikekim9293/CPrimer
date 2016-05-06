@@ -17,10 +17,8 @@ using std::string; using std::vector;
 using std::begin; using std::end;
 
 int main() {
-    double dval; int ival; int *pi;
-    dval = ival = *pi = 0;
-    
     return 0;
+    
     // Output:
     // Program ended with exit code: 0
 }

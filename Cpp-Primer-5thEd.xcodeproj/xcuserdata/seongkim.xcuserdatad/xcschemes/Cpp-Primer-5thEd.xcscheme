@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3AB25D801CBCC51500479D0A"
-               BuildableName = "CPrimer"
-               BlueprintName = "CPrimer"
-               ReferencedContainer = "container:CPrimer.xcodeproj">
+               BuildableName = "Cpp-Primer-5thEd"
+               BlueprintName = "Cpp-Primer-5thEd"
+               ReferencedContainer = "container:Cpp-Primer-5thEd.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3AB25D801CBCC51500479D0A"
-            BuildableName = "CPrimer"
-            BlueprintName = "CPrimer"
-            ReferencedContainer = "container:CPrimer.xcodeproj">
+            BuildableName = "Cpp-Primer-5thEd"
+            BlueprintName = "Cpp-Primer-5thEd"
+            ReferencedContainer = "container:Cpp-Primer-5thEd.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3AB25D801CBCC51500479D0A"
-            BuildableName = "CPrimer"
-            BlueprintName = "CPrimer"
-            ReferencedContainer = "container:CPrimer.xcodeproj">
+            BuildableName = "Cpp-Primer-5thEd"
+            BlueprintName = "Cpp-Primer-5thEd"
+            ReferencedContainer = "container:Cpp-Primer-5thEd.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3AB25D801CBCC51500479D0A"
-            BuildableName = "CPrimer"
-            BlueprintName = "CPrimer"
-            ReferencedContainer = "container:CPrimer.xcodeproj">
+            BuildableName = "Cpp-Primer-5thEd"
+            BlueprintName = "Cpp-Primer-5thEd"
+            ReferencedContainer = "container:Cpp-Primer-5thEd.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -18,7 +18,8 @@ using std::begin; using std::end;
 
 int main() {
     double dval; int ival; int *pi;
-    dval = ival = *pi = 0;
+    dval = ival = 0;
+    pi = 0;
     
     return 0;
     // Output:
@@ -28,8 +29,6 @@ int main() {
 /* This assignment is illegal because pi which is a pointer to int can't be
  * converted to an int (type of ival).
  * This correction will allow assignment:
- * dval = ival = *pi = 0;
- * OR
  * dval = ival = 0; pi = 0;
  */
 
